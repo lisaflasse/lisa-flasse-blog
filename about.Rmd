@@ -5,4 +5,4 @@ title: "About me"
 
 This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+- Lisa Flasse, Ingrid Van Lancker, BAB2 biologie 2019-2020
