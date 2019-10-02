@@ -5,4 +5,7 @@ title: "About me"
 
 This section also must include: 
 
-- Lisa Flasse, Ingrid Van Lancker, BAB2 biologie 2019-2020
+- Name : Lisa Flasse  
+BAB2 biology 2019-2020  
+English Professor : Ingrid Van Lancker
+
