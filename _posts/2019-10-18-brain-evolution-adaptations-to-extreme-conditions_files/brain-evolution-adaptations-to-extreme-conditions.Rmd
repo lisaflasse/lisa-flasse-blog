@@ -1,0 +1,58 @@
+---
+title: "Brain evolution : Adaptations to extreme conditions"
+description: "The brain architecture of shrimp living in deep-sea vents provides clues to how these organisms have adapted to extreme living."
+author:
+  - name: "Lisa Flasse"
+date: 10-18-2019
+categories:
+  - deep-sea vents
+  - brain structure
+preview: images/rimicaris-hybisae.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Flisa-flasse-blog%2F_posts%2F2019-10-18-brain-evolution-adaptations-to-extreme-conditions%2Fimages%2Frimicaris-hybisae.jpg)
+
+## Introduction
+
+
+
+## Vocabulary 
+
+| Words from the text               | Synonym/Explanation                                                  |
+| --------------------------------- | -------------------------------------------------------------------- |
+| surroundings                      | environment                                                          |
+| to thrive                         | to grow healthily                                                    |
+| deep-sea vents/hydrothermal vents | fissure on the sea floor from which geothermally heated water issues |
+| core                              | centre of a planet                                                   |
+| to spew                           | to eject, to discharge                                               |
+| frigid                            | very cold                                                            |
+| erratic                           | unpredictable                                                        |
+| hemiellipsoid bodies              | part of the brain in arthropods                                      |
+| dim                               | not bright                                                           |
+| olfactory                         | related to the sense of smell                                        |
+| antennae                          | sense organ                                                          |
+| input                             | data                                                                 |
+| pathway                           | path                                                                 |
+| tremendous                        | huge                                                                 |
+
+## Analysis table 
+
+|                     |                                                                                                                                                                                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Author              | Barbara S Beltz, Neuroscience department in Wellesley College, US                                                                                                              |
+| Researchers         | J Machon et al., D Cottin et al., J Krieger et al., E Lubofsky et al., FJ Maza et al., ME McKinzie et al., J Ponsard et al., T Ramm et al., ME Stegner et al., GH Wolff et al. |
+| Publication date    | 30th of Augustus 2019                                                                                                                                                          |
+| General topic       | Study of the brain architecture of shrimps living in deep-sea vents                                                                                                            |
+| Procedure           | The brain architecture could actually provide clues about how some organisms are able to live in extreme environments, such as deep-sea vents in this case                     |
+| Remaining questions | The hemiellipsoid bodies in crustaceans could contribute to the processing of the sensory information and to memory                                                            |
+
+## Conclusion
+
+<https://elifesciences.org/articles/50647>

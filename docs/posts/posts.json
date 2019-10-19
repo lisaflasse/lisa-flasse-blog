@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions_files/",
+    "title": "Brain evolution : Adaptations to extreme conditions",
+    "description": "The brain architecture of shrimp living in deep-sea vents provides clues to how these organisms have adapted to extreme living.",
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-18",
+    "categories": [
+      "deep-sea vents",
+      "brain structure"
+    ],
+    "preview": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions_files/images/rimicaris-hybisae.jpg",
+    "last_modified": "2019-10-19T15:29:25+02:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
     "description": {},
@@ -15,6 +33,6 @@
       "track"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-07T17:04:27+02:00"
+    "last_modified": "2019-10-19T10:45:39+02:00"
   }
 ]
