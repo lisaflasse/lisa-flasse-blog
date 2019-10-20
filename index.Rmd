@@ -1,5 +1,5 @@
 ---
-title: "Evolutions of adaptations to extreme environments"
+title: "Evolution of adaptations to extreme environments"
 site: distill::distill_website
 listing: posts
 ---
