@@ -14,5 +14,6 @@ navbar:
 base_url: https://lisaflasse.github.io/lisa-flasse-blog/ 
 collections:
     posts:
+      disqus: lisa-flasse-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
