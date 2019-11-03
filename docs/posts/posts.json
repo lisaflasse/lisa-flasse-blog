@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/",
+    "title": "Gene Transfer : Adapting for life in the extreme",
+    "description": "Red algae have adapted to extreme environments by acquiring genes from bacteria and archaea.",
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-01",
+    "categories": [
+      "red algae",
+      "gene transfer"
+    ],
+    "preview": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/images/Cyanidium_O5A.jpg",
+    "last_modified": "2019-11-03T23:27:27+01:00"
+  },
+  {
     "path": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/",
     "title": "Brain evolution : Adaptations to extreme conditions",
     "description": "The brain architecture of shrimp living in deep-sea vents provides clues to how these organisms have adapted to extreme living.",
