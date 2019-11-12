@@ -1,0 +1,31 @@
+---
+title: "Microbes in extreme environments"
+description: |
+  A short description of the post.
+author:
+  - name: Lisa Flasse
+    url: {}
+date: 11-12-2019
+categories:
+  - microbes
+preview: images/microbes-extremophiles.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Flisa-flasse-blog%2F_posts%2F2019-11-12-microbes-in-extreme-environments%2Fimages%2Fmicrobes-extremophiles.jpg)
+
+Source of the article : <https://www.encyclopedie-environnement.org>
+
+Link of the article : <https://www.encyclopedie-environnement.org/en/life/microbes-in-extreme-environments/>
+
+Date of publication : 23/04/2019
+
+Word count :
+
+## Vocabulary 
