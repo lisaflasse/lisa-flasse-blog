@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2019-11-12-microbes-in-extreme-environments/",
+    "title": "Article 3 : Microbes in extreme environments",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-12",
+    "categories": [
+      "archea",
+      "bacteria"
+    ],
+    "preview": "posts/2019-11-12-microbes-in-extreme-environments/images/microbes-extremophiles.jpg",
+    "last_modified": "2019-11-14T13:01:47+01:00"
+  },
+  {
     "path": "posts/2019-11-12-my-english-activity-log/",
     "title": "My English activity log",
     "description": {},
@@ -16,7 +34,7 @@
   },
   {
     "path": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/",
-    "title": "Gene Transfer : Adapting for life in the extreme",
+    "title": "Article 2 : Gene Transfer : Adapting for life in the extreme",
     "description": "Red algae have adapted to extreme environments by acquiring genes from bacteria and archaea.",
     "author": [
       {
@@ -30,11 +48,11 @@
       "gene transfer"
     ],
     "preview": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/images/Cyanidium_O5A.jpg",
-    "last_modified": "2019-11-12T16:38:32+01:00"
+    "last_modified": "2019-11-14T12:17:56+01:00"
   },
   {
     "path": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/",
-    "title": "Brain evolution : Adaptations to extreme conditions",
+    "title": "Article 1 : Brain evolution : Adaptations to extreme conditions",
     "description": "The brain architecture of shrimp living in deep-sea vents provides clues to how these organisms have adapted to extreme living.",
     "author": [
       {
@@ -45,9 +63,10 @@
     "date": "2019-10-18",
     "categories": [
       "deep-sea vents",
-      "brain structure"
+      "brain structure",
+      "vent shrimps"
     ],
     "preview": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/images/rimicaris-hybisae.jpg",
-    "last_modified": "2019-11-12T16:38:32+01:00"
+    "last_modified": "2019-11-14T12:17:31+01:00"
   }
 ]

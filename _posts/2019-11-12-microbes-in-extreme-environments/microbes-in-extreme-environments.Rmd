@@ -1,5 +1,5 @@
 ---
-title: "Microbes in extreme environments"
+title: "Article 3 : Microbes in extreme environments"
 description: |
   A short description of the post.
 author:
@@ -7,7 +7,8 @@ author:
     url: {}
 date: 11-12-2019
 categories:
-  - microbes
+  - archea
+  - bacteria
 preview: images/microbes-extremophiles.jpg
 output:
   distill::distill_article:
@@ -26,6 +27,44 @@ Link of the article : <https://www.encyclopedie-environnement.org/en/life/microb
 
 Date of publication : 23/04/2019
 
-Word count :
+Word count : 2524
 
 ## Vocabulary 
+
+| Words from the text | Synonyms/Explanation                    |
+| ------------------- | --------------------------------------- |
+| to exploit          | use to advantage                        |
+| sustainable         | bearable, tolerable                     |
+| reservoir           | a large supply                          |
+| partial             | not complete                            |
+| astonishing         | amazing                                 |
+| negligible          | insignificant                           |
+| constraint          | limit                                   |
+| sought              | past tense of seek                      |
+| biased              | prejudiced                              |
+| homologous          | similar                                 |
+| piezophiles         | need pressures exceeding 20 MPa to grow |
+| psychophiles        | only thrive below 15°C                  |
+| nevertheless        | however                                 |
+| halophiles          | can resist severe dehydration           |
+| arid                | dry                                     |
+| brine               | salty water                             |
+| compartmentalize    | arrange in sections                     |
+| to trigger          | to provoke                              |
+| to stiffen          | to make stiff, hard                     |
+| halophiles          | thrive in a high salt concentration     |
+| robustness          | strength                                |
+| uniqueness          | fact of being unlike anything else      |
+| screening           | selection                               |
+
+## Analysis table
+
+|                       |                                                                                                             |
+| --------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Author                | Bruno Franzetti, Research director at the CNRS, Institut de biologie structurale, Université Grenoble Alpes |
+| Researchers           | -                                                                                                           |
+| Published in ? When ? | Encyclopedia of the environment, 23/04/2019                                                                 |
+| General topic         | -                                                                                                           |
+| Procedure             | -                                                                                                           |
+| Conclusion            | -                                                                                                           |
+| Remaining questions   | -                                                                                                           |
