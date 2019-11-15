@@ -1,5 +1,5 @@
 ---
-title: "Brain evolution : Adaptations to extreme conditions"
+title: "Article 1 : Brain evolution : Adaptations to extreme conditions"
 description: "The brain architecture of shrimp living in deep-sea vents provides clues to how these organisms have adapted to extreme living."
 author:
   - name: "Lisa Flasse"
@@ -7,6 +7,7 @@ date: 10-18-2019
 categories:
   - deep-sea vents
   - brain structure
+  - vent shrimps
 preview: images/rimicaris-hybisae.jpg
 output:
   distill::distill_article:
@@ -48,12 +49,12 @@ Word count : 788
 
 ## Analysis table 
 
-|                     |                                                                                                                                                                                |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Author              | Barbara S Beltz, Neuroscience department in Wellesley College, US                                                                                                              |
-| Researchers         | J Machon et al., D Cottin et al., J Krieger et al., E Lubofsky et al., FJ Maza et al., ME McKinzie et al., J Ponsard et al., T Ramm et al., ME Stegner et al., GH Wolff et al. |
-| Publication date    | 30/08/2019                                                                                                                                                                     |
-| General topic       | Study of the brain architecture of shrimps living in deep-sea vents                                                                                                            |
-| Procedure           | It has been demonstrated that the anatomy and the physiology can adapt due to extreme conditions, but the brain architecture could also provide clues about how some organisms are able to live in extreme environments, such as deep-sea vents in this case.                                |
-| Conclusion          | The brain of the shrimp *R. exoculata* has actually evolved in response to low light levels and an irregular chemical environment. Their hemiellipsoid bodies are particularly atypical, which suggests that these parts have evolved to provide these animals additionnal functions for them to survive in deep-sea vents.                                                                                         |
-| Remaining questions | The hemiellipsoid bodies in crustaceans could contribute to the processing of the sensory information and to memory.                                                            |
+|                       |                                                                                                                                                                                                                                                                                                                             |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Author                | Barbara S Beltz, Neuroscience department in Wellesley College, US                                                                                                                                                                                                                                                           |
+| Researchers           | J Machon et al., D Cottin et al., J Krieger et al., E Lubofsky et al., FJ Maza et al., ME McKinzie et al., J Ponsard et al., T Ramm et al., ME Stegner et al., GH Wolff et al.                                                                                                                                              |
+| Published in ? When ? | eLife Sciences, 30/08/2019                                                                                                                                                                                                                                                                                                  |
+| General topic         | Study of the brain architecture of shrimps living in deep-sea vents.                                                                                                                                                                                                                                                        |
+| Procedure             | It has been demonstrated that the anatomy and the physiology can adapt due to extreme conditions, but the brain architecture could also provide clues about how some organisms are able to live in extreme environments, such as deep-sea vents in this case.                                                               |
+| Conclusion            | The brain of the shrimp *R. exoculata* has actually evolved in response to low light levels and an irregular chemical environment. Their hemiellipsoid bodies are particularly atypical, which suggests that these parts have evolved to provide these animals additionnal functions for them to survive in deep-sea vents. |
+| Remaining questions   | The hemiellipsoid bodies in crustaceans could contribute to the processing of the sensory information and to memory.                                                                                                                                                                                                        |

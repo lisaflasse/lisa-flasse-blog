@@ -1,0 +1,21 @@
+---
+title: "My English activity log"
+author:
+  - name: Lisa Flasse
+    url: {}
+date: 11-12-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+- Up to now :
+  + phone and social media configured in english for some years
+  + finished a few series and movies in english (with english subtitles)
+  + watched a lot of videos on Youtube
+  + read a few books, articles, and stories
+- 
