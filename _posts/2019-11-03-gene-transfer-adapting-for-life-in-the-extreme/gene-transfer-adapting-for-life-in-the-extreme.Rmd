@@ -19,7 +19,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Flisa-flasse-blog%2F_posts%2F2019-11-03-gene-transfer-adapting-for-life-in-the-extreme%2Fimages%2FCyanidium_O5A.jpg)
+![](images/Cyanidium_O5A.jpg)
 
 Source of the article : <https://elifesciences.org>
 

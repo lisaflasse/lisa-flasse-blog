@@ -2,7 +2,7 @@
   {
     "path": "posts/2019-11-12-microbes-in-extreme-environments/",
     "title": "Article 3 : Microbes in extreme environments",
-    "description": "A short description of the post.",
+    "description": "The study of extremophilic organisms revealed a third life form different from bacteria and eukaryotes. These organisms, called Archaea, are abundant in the environment. Contrary to what one might think, these organisms are not in “survival” conditions but really need conditions considered hostile in order to develop. Moreover, Archea have evolutionary links with our cells, representing unique models for understanding the origin and functioning of complex cellular processes.",
     "author": [
       {
         "name": "Lisa Flasse",
@@ -15,7 +15,7 @@
       "bacteria"
     ],
     "preview": "posts/2019-11-12-microbes-in-extreme-environments/images/microbes-extremophiles.jpg",
-    "last_modified": "2019-11-15T08:08:00+01:00"
+    "last_modified": "2019-11-18T00:01:14+01:00"
   },
   {
     "path": "posts/2019-11-12-my-english-activity-log/",
@@ -30,7 +30,7 @@
     "date": "2019-11-12",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-15T08:08:00+01:00"
+    "last_modified": "2019-11-17T21:56:03+01:00"
   },
   {
     "path": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/",
@@ -48,7 +48,7 @@
       "gene transfer"
     ],
     "preview": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/images/Cyanidium_O5A.jpg",
-    "last_modified": "2019-11-15T08:08:00+01:00"
+    "last_modified": "2019-11-17T21:56:03+01:00"
   },
   {
     "path": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/",
@@ -67,6 +67,6 @@
       "vent shrimps"
     ],
     "preview": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/images/rimicaris-hybisae.jpg",
-    "last_modified": "2019-11-15T08:07:59+01:00"
+    "last_modified": "2019-11-17T22:01:31+01:00"
   }
 ]

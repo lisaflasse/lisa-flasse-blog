@@ -18,7 +18,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](http://localhost:8787/file_show?path=%2Fmedia%2Fsf_shared%2Fprojects%2Flisa-flasse-blog%2F_posts%2F2019-10-18-brain-evolution-adaptations-to-extreme-conditions%2Fimages%2Frimicaris-hybisae.jpg)
+![](images/rimicaris-hybisae.jpg)
 
 Source of the article : <https://elifesciences.org>
 
