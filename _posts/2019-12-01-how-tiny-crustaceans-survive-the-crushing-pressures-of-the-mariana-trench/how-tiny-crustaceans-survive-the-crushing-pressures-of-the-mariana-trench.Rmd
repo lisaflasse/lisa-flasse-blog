@@ -1,0 +1,29 @@
+---
+title: "Article 4 : How tiny crustaceans survive the crushing pressures of the Mariana Trench"
+description: |
+  A short description of the post.
+author:
+  - name: Lisa Flasse
+    url: {}
+date: 12-01-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Source of the article : <https://www.livescience.com/>
+
+Link of the article : <https://www.livescience.com/65429-amphipods-survive-mariana-trench.html>
+
+Date of publication :
+
+Word count :
+
+## Vocabulary 
+
+## Analysis table 
+
