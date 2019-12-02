@@ -1,11 +1,15 @@
 ---
 title: "Article 4 : How tiny crustaceans survive the crushing pressures of the Mariana Trench"
 description: |
-  A short description of the post.
+  Hirondellea gigas, a shrimplike creature that dwells at the bottom of the sea, developed an "aluminum armor" in order to survive the ravages of the deepest part of the oceans.
 author:
   - name: Lisa Flasse
     url: {}
 date: 12-01-2019
+categories :
+  - Mariana Trench
+  - Crustaceans
+preview : images/ImageForArticle_1357.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -14,16 +18,24 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+![](images/ImageForArticle_1357.jpg)
 
 Source of the article : <https://www.livescience.com/>
 
 Link of the article : <https://www.livescience.com/65429-amphipods-survive-mariana-trench.html>
 
-Date of publication :
+Date of publication : 08/05/2019
 
-Word count :
+Word count : 762
 
 ## Vocabulary 
+
+| Words from the text | Synonym/Explanation               |
+| ------------------- | --------------------------------- |
+| to suit up in       | to wear                           |
+| to dwell            | to live in                        |
+| readily             | willingly, without hesitation     |
+| sparse              | thinly dispersed, in short supply |
 
 ## Analysis table 
 

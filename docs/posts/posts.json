@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2019-12-01-how-tiny-crustaceans-survive-the-crushing-pressures-of-the-mariana-trench/",
+    "title": "Article 4 : How tiny crustaceans survive the crushing pressures of the Mariana Trench",
+    "description": "Hirondellea gigas, a shrimplike creature that dwells at the bottom of the sea, developed an \"aluminum armor\" in order to survive the ravages of the deepest part of the oceans.",
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-01",
+    "categories": [
+      "Mariana Trench",
+      "Crustaceans"
+    ],
+    "preview": "posts/2019-12-01-how-tiny-crustaceans-survive-the-crushing-pressures-of-the-mariana-trench/images/ImageForArticle_1357.jpg",
+    "last_modified": "2019-12-02T15:29:20+01:00"
+  },
+  {
     "path": "posts/2019-11-12-microbes-in-extreme-environments/",
     "title": "Article 3 : Microbes in extreme environments",
     "description": "The study of extremophilic organisms revealed a third life form different from bacteria and eukaryotes. These organisms, called Archaea, are abundant in the environment. Contrary to what one might think, these organisms are not in “survival” conditions but really need conditions considered hostile in order to develop. Moreover, Archea have evolutionary links with our cells, representing unique models for understanding the origin and functioning of complex cellular processes.",
