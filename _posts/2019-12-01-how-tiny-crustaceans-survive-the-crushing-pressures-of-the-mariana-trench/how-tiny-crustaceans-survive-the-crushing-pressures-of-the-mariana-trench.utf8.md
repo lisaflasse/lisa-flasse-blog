@@ -15,9 +15,7 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+
 ![](images/hirondellea.jpg)
 
 Source of the article : <https://www.livescience.com/>
