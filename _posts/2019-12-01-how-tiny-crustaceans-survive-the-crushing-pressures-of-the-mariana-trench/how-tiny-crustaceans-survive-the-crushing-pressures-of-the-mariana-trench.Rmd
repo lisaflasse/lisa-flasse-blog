@@ -9,7 +9,7 @@ date: 12-01-2019
 categories :
   - Mariana Trench
   - Crustaceans
-preview : images/ImageForArticle_1357.jpg
+preview : images/hirondellea.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -18,7 +18,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![](images/ImageForArticle_1357.jpg)
+![](images/hirondellea.jpg)
 
 Source of the article : <https://www.livescience.com/>
 
