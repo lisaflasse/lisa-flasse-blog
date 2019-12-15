@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2019-12-15-cracking-how-tardigrades-survive-the-extremes/",
+    "title": "Article 5 : Cracking how tardigrades survive the extremes",
+    "description": "Scientists have gained a new understanding of how tiny, ultra-resilient invertebrates known as tardigrades, or 'water bears,' are protected in extreme conditions.",
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2019-12-15",
+    "categories": [
+      "tardigrades"
+    ],
+    "preview": "posts/2019-12-15-cracking-how-tardigrades-survive-the-extremes/images/image_5043-Tardigrade.jpg",
+    "last_modified": "2019-12-15T20:12:11+01:00"
+  },
+  {
     "path": "posts/2019-12-01-how-tiny-crustaceans-survive-the-crushing-pressures-of-the-mariana-trench/",
     "title": "Article 4 : How tiny crustaceans survive the crushing pressures of the Mariana Trench",
     "description": "*Hirondellea gigas*, a huge shrimplike creature that dwells at the bottom of the sea, developed an \"aluminum armor\" in order to survive the ravages of the deepest part of the oceans.",
