@@ -1,5 +1,23 @@
 [
   {
+    "path": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/",
+    "title": "Article 6 : Study illuminates link between anglerfish and bacteria",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2020-01-28",
+    "categories": [
+      "anglerfis",
+      "bacteria"
+    ],
+    "preview": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/images/29SCI-ANGLERFISH-promo-superJumbo.jpg",
+    "last_modified": "2020-01-28T19:28:46+01:00"
+  },
+  {
     "path": "posts/2019-12-15-cracking-how-tardigrades-survive-the-extremes/",
     "title": "Article 5 : Cracking how tardigrades survive the extremes",
     "description": "Scientists have gained a new understanding of how tiny, ultra-resilient invertebrates known as tardigrades, or 'water bears,' are protected in extreme conditions.",
@@ -65,7 +83,7 @@
     "date": "2019-11-12",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-12-22T23:34:49+01:00"
+    "last_modified": "2020-01-28T18:50:32+01:00"
   },
   {
     "path": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/",

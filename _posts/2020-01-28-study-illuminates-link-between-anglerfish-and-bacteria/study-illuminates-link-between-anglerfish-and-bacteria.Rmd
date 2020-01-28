@@ -1,0 +1,39 @@
+---
+title: "Article 6 : Study illuminates link between anglerfish and bacteria"
+description: |
+  A short description of the post.
+author:
+  - name: Lisa Flasse
+    url: {}
+date: 01-28-2020
+categories:
+  - anglerfis
+  - bacteria
+preview: images/29SCI-ANGLERFISH-promo-superJumbo.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/29SCI-ANGLERFISH-promo-superJumbo.jpg)
+
+Source of the article : <https://news.cornell.edu/>
+
+Link of the article : <https://news.cornell.edu/stories/2019/10/study-illuminates-link-between-anglerfish-bacteria>
+
+Date of publication : 01/10/2019
+
+Word count : 642
+
+## Vocabulary
+
+| Words from the text | Synonym/Explanation                          |
+| ------------------- | -------------------------------------------- |
+| to undergo          | to be put through                            |
+| hallmark            | any distinguishing feature or characteristic |
+
+## Analysis table 
