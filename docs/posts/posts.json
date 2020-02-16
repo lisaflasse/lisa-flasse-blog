@@ -2,7 +2,7 @@
   {
     "path": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/",
     "title": "Article 6 : Study illuminates link between anglerfish and bacteria",
-    "description": "A short description of the post.",
+    "description": "Female deep-sea anglerfish have a headlamp, at the end of a pole attached to their foreheads, that lights up thanks to bioluminescent bacteria that live in the lamp’s bulb.",
     "author": [
       {
         "name": "Lisa Flasse",
@@ -11,11 +11,12 @@
     ],
     "date": "2020-01-28",
     "categories": [
-      "anglerfis",
-      "bacteria"
+      "anglerfish",
+      "bacteria",
+      "deep sea"
     ],
     "preview": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/images/29SCI-ANGLERFISH-promo-superJumbo.jpg",
-    "last_modified": "2020-01-28T19:28:46+01:00"
+    "last_modified": "2020-02-16T23:16:06+01:00"
   },
   {
     "path": "posts/2019-12-15-cracking-how-tardigrades-survive-the-extremes/",
@@ -83,7 +84,7 @@
     "date": "2019-11-12",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-01-28T18:50:32+01:00"
+    "last_modified": "2020-02-16T22:50:40+01:00"
   },
   {
     "path": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/",

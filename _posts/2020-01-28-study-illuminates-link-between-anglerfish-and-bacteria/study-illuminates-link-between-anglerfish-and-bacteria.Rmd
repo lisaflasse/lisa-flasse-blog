@@ -1,14 +1,15 @@
 ---
 title: "Article 6 : Study illuminates link between anglerfish and bacteria"
 description: |
-  A short description of the post.
+  Female deep-sea anglerfish have a headlamp, at the end of a pole attached to their foreheads, that lights up thanks to bioluminescent bacteria that live in the lamp’s bulb.
 author:
   - name: Lisa Flasse
     url: {}
 date: 01-28-2020
 categories:
-  - anglerfis
+  - anglerfish
   - bacteria
+  - deep sea
 preview: images/29SCI-ANGLERFISH-promo-superJumbo.jpg
 output:
   distill::distill_article:
@@ -25,6 +26,8 @@ Source of the article : <https://news.cornell.edu/>
 
 Link of the article : <https://news.cornell.edu/stories/2019/10/study-illuminates-link-between-anglerfish-bacteria>
 
+Link of the original article : <https://elifesciences.org/articles/47606>
+
 Date of publication : 01/10/2019
 
 Word count : 642
@@ -33,7 +36,18 @@ Word count : 642
 
 | Words from the text | Synonym/Explanation                          |
 | ------------------- | -------------------------------------------- |
+| angler              | pêcheur                                      |
 | to undergo          | to be put through                            |
 | hallmark            | any distinguishing feature or characteristic |
 
 ## Analysis table 
+
+|                                                |                                                                                                                                                                                                                                    |
+| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Author                                         |  Krishna Ramanujan                                                                                                                                                                                                                 |
+| Author of the original article on eLIfeScience | Lydia J Baker, Department of Microbiology, Cornell University, New York, United States                                                                                                                                             |
+| Researchers/Contributors                       | Lydia J Baker, Lindsay L Freed,  Cole G Easson,  Jose V Lopez,  Danté Fenolio,  Tracey T Sutton,  Spencer V Nyholm,  Tory A Hendry                                                                                                 |
+| Published in ? When ?                          | Cornell Chronicle, 01/10/2019 ; Original article on eLife Science, 01/10/2019                                                                                                                                                      |
+| General topic                                  | Deep-sea anglerfishes are relatively abundant and diverse, but their luminescent bacterial symbionts remain enigmatic.                                                                                                             |
+| Procedure                                      | To determine how anglerfish symbionts are transmitted, researchers analyzed bacteria-host codivergence across six diverse anglerfish species.                                                                                      |
+| Conclusion                                     | This study leads to the conclusion that diverse anglerfishes share symbionts that are acquired from the environment, and that these bacteria have undergone extreme genome reduction although they are not vertically transmitted. |
