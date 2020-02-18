@@ -34,11 +34,14 @@ Word count : 642
 
 ## Vocabulary
 
-| Words from the text | Synonym/Explanation                          |
-| ------------------- | -------------------------------------------- |
-| angler              | pêcheur                                      |
-| to undergo          | to be put through                            |
-| hallmark            | any distinguishing feature or characteristic |
+| Words from the text | Synonym/Explanation                                                                                                                     |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| angler              | a person who fishes with a hook and line                                                                                                |
+| to undergo          | to be put through                                                                                                                       |
+| hallmark            | any distinguishing feature or characteristic                                                                                            |
+| obligately          | in an obligate or necessary manner, commonly used in biology                                                                            |
+| vibrio              | any of several comma- orS-shaped bacteria of the genus **Vibrio**, certain species of which are pathogenic for humans and other animals |
+| granule             | little grain                                                                                                                            |
 
 ## Analysis table 
 
