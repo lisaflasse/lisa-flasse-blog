@@ -1,5 +1,5 @@
 ---
-title: "Article 8 : Proposed Deep-Sea Mining Zone Harbors Previously Unknown Species"
+title: "Article 7 : Proposed Deep-Sea Mining Zone Harbors Previously Unknown Species"
 description: |
   A short description of the post.
 author:
@@ -29,5 +29,3 @@ Date of publication : 17/10/2019
 Word count :
 
 ## Vocabulary
-
-

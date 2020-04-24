@@ -1,7 +1,22 @@
 [
   {
+    "path": "posts/2020-04-24-arsenic-resistant-nematodes-found-in-mono-lake/",
+    "title": "Article 8 : Arsenic-Resistant Nematodes Found in Mono Lake",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-24",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-24T17:24:57+02:00"
+  },
+  {
     "path": "posts/2020-04-24-proposed-deep-sea-mining-zone-harbors-previously-unknown-species/",
-    "title": "Article 8 : Proposed Deep-Sea Mining Zone Harbors Previously Unknown Species",
+    "title": "Article 7 : Proposed Deep-Sea Mining Zone Harbors Previously Unknown Species",
     "description": "A short description of the post.",
     "author": [
       {
@@ -14,7 +29,7 @@
       "deep sea"
     ],
     "preview": {},
-    "last_modified": "2020-04-24T17:09:13+02:00"
+    "last_modified": "2020-04-24T17:24:34+02:00"
   },
   {
     "path": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/",
@@ -101,7 +116,7 @@
     "date": "2019-11-12",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-04-15T21:34:02+02:00"
+    "last_modified": "2020-04-15T21:34:03+02:00"
   },
   {
     "path": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/",

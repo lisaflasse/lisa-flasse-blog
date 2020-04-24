@@ -1,17 +1,13 @@
 ---
-title: "Article 7 : Arsenic-Resistant Nematodes Found in Mono Lake"
+title: "Article 8 : Arsenic-Resistant Nematodes Found in Mono Lake"
 description: |
   A short description of the post.
 author:
   - name: Lisa Flasse
     url: {}
 date: 04-24-2020
-categories :
-  - genetics
-  - nematodes
-preview : images/nematodes.jpg
 output:
-distill::distill_article:
+  distill::distill_article:
     self_contained: false
 ---
 
@@ -45,5 +41,3 @@ Word count : 811
 | broad               | wide                                            |
 
 ## Analysis table
-
-
