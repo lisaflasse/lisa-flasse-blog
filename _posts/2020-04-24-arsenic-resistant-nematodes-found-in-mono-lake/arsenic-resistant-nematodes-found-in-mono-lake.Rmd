@@ -1,0 +1,49 @@
+---
+title: "Article 7 : Arsenic-Resistant Nematodes Found in Mono Lake"
+description: |
+  A short description of the post.
+author:
+  - name: Lisa Flasse
+    url: {}
+date: 04-24-2020
+categories :
+  - genetics
+  - nematodes
+preview : images/nematodes.jpg
+output:
+distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/nematodes.jpg)
+
+Source of the article : <https://www.the-scientist.com/>
+
+Link of the article : <https://www.the-scientist.com/news-opinion/arsenic-resistant-nematodes-found-in-mono-lake-66493>
+
+Date of publication : 26/09/2019
+
+Word count : 811
+
+## Vocabulary
+
+
+| Words from the text | Synonym/Explanation                             |
+| ------------------- | ----------------------------------------------- |
+| brine               | water of the sea                                |
+| awareness           | mindful, conscious                              |
+| harsh               | severe, not pleasant                            |
+| shovel              | a hand tool used for taking up or throwing dirt |
+| to scoop            | to remove, to gather                            |
+| tide                | the regular rise and fall of the waters         |
+| to graze            | to feed on grass or other plants                |
+| to confer           | to bestow, to give                              |
+| broad               | wide                                            |
+
+## Analysis table
+
+

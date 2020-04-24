@@ -1,0 +1,33 @@
+---
+title: "Article 8 : Proposed Deep-Sea Mining Zone Harbors Previously Unknown Species"
+description: |
+  A short description of the post.
+author:
+  - name: Lisa Flasse
+    url: {}
+date: 04-24-2020
+categories:
+  - deep sea
+preview:
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](images/)
+
+Source of the article : <https://www.the-scientist.com/>
+
+Link of the article : <https://www.the-scientist.com/news-opinion/proposed-deep-sea-mining-zone-harbors-previously-unknown-species-66584>
+
+Date of publication : 17/10/2019
+
+Word count :
+
+## Vocabulary
+
+

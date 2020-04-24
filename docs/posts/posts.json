@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-04-24-proposed-deep-sea-mining-zone-harbors-previously-unknown-species/",
+    "title": "Article 8 : Proposed Deep-Sea Mining Zone Harbors Previously Unknown Species",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2020-04-24",
+    "categories": [
+      "deep sea"
+    ],
+    "preview": {},
+    "last_modified": "2020-04-24T17:09:13+02:00"
+  },
+  {
     "path": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/",
     "title": "Article 6 : Study illuminates link between anglerfish and bacteria",
     "description": "Female deep-sea anglerfish have a headlamp, at the end of a pole attached to their foreheads, that lights up thanks to bioluminescent bacteria that live in the lamp’s bulb.",
