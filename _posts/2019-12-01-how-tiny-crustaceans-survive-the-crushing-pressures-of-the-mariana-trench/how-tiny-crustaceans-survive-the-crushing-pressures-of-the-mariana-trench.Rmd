@@ -1,7 +1,5 @@
 ---
 title: "Article 4 : How tiny crustaceans survive the crushing pressures of the Mariana Trench"
-description: |
-  *Hirondellea gigas*, a huge shrimplike creature that dwells at the bottom of the sea, developed an "aluminum armor" in order to survive the ravages of the deepest part of the oceans.
 author:
   - name: Lisa Flasse
     url: {}

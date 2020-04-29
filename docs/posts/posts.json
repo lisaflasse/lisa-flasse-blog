@@ -15,26 +15,9 @@
     "last_modified": "2020-04-24T17:24:57+02:00"
   },
   {
-    "path": "posts/2020-04-24-proposed-deep-sea-mining-zone-harbors-previously-unknown-species/",
-    "title": "Article 7 : Proposed Deep-Sea Mining Zone Harbors Previously Unknown Species",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Lisa Flasse",
-        "url": {}
-      }
-    ],
-    "date": "2020-04-24",
-    "categories": [
-      "deep sea"
-    ],
-    "preview": {},
-    "last_modified": "2020-04-24T17:24:34+02:00"
-  },
-  {
     "path": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/",
     "title": "Article 6 : Study illuminates link between anglerfish and bacteria",
-    "description": "Female deep-sea anglerfish have a headlamp, at the end of a pole attached to their foreheads, that lights up thanks to bioluminescent bacteria that live in the lamp’s bulb.",
+    "description": {},
     "author": [
       {
         "name": "Lisa Flasse",
@@ -48,12 +31,12 @@
       "deep sea"
     ],
     "preview": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/images/29SCI-ANGLERFISH-promo-superJumbo.jpg",
-    "last_modified": "2020-02-18T16:08:54+01:00"
+    "last_modified": "2020-04-29T17:51:15+02:00"
   },
   {
     "path": "posts/2019-12-15-cracking-how-tardigrades-survive-the-extremes/",
     "title": "Article 5 : Cracking how tardigrades survive the extremes",
-    "description": "Scientists have gained a new understanding of how tiny, ultra-resilient invertebrates known as tardigrades, or 'water bears,' are protected in extreme conditions.",
+    "description": {},
     "author": [
       {
         "name": "Lisa Flasse",
@@ -65,12 +48,12 @@
       "tardigrades"
     ],
     "preview": "posts/2019-12-15-cracking-how-tardigrades-survive-the-extremes/images/image_5043-Tardigrade.jpg",
-    "last_modified": "2019-12-15T20:12:11+01:00"
+    "last_modified": "2020-04-29T17:50:43+02:00"
   },
   {
     "path": "posts/2019-12-01-how-tiny-crustaceans-survive-the-crushing-pressures-of-the-mariana-trench/",
     "title": "Article 4 : How tiny crustaceans survive the crushing pressures of the Mariana Trench",
-    "description": "*Hirondellea gigas*, a huge shrimplike creature that dwells at the bottom of the sea, developed an \"aluminum armor\" in order to survive the ravages of the deepest part of the oceans.",
+    "description": {},
     "author": [
       {
         "name": "Lisa Flasse",
@@ -83,25 +66,7 @@
       "Crustaceans"
     ],
     "preview": "posts/2019-12-01-how-tiny-crustaceans-survive-the-crushing-pressures-of-the-mariana-trench/images/hirondellea.jpg",
-    "last_modified": "2019-12-15T19:01:12+01:00"
-  },
-  {
-    "path": "posts/2019-11-12-microbes-in-extreme-environments/",
-    "title": "Article 3 : Microbes in extreme environments",
-    "description": "The study of extremophilic organisms revealed a third life form different from bacteria and eukaryotes. These organisms, called Archaea, are abundant in the environment. Contrary to what one might think, these organisms are not in “survival” conditions but really need conditions considered hostile in order to develop. Moreover, Archea have evolutionary links with our cells, representing unique models for understanding the origin and functioning of complex cellular processes.",
-    "author": [
-      {
-        "name": "Lisa Flasse",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-12",
-    "categories": [
-      "archea",
-      "bacteria"
-    ],
-    "preview": "posts/2019-11-12-microbes-in-extreme-environments/images/microbes-extremophiles.jpg",
-    "last_modified": "2019-12-01T23:02:37+01:00"
+    "last_modified": "2020-04-29T17:50:25+02:00"
   },
   {
     "path": "posts/2019-11-12-my-english-activity-log/",
@@ -119,9 +84,27 @@
     "last_modified": "2020-04-15T21:34:03+02:00"
   },
   {
+    "path": "posts/2019-11-12-microbes-in-extreme-environments/",
+    "title": "Article 3 : Microbes in extreme environments",
+    "description": {},
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-12",
+    "categories": [
+      "archea",
+      "bacteria"
+    ],
+    "preview": "posts/2019-11-12-microbes-in-extreme-environments/images/microbes-extremophiles.jpg",
+    "last_modified": "2020-04-29T17:51:43+02:00"
+  },
+  {
     "path": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/",
     "title": "Article 2 : Gene Transfer : Adapting for life in the extreme",
-    "description": "Red algae have adapted to extreme environments by acquiring genes from bacteria and archaea.",
+    "description": {},
     "author": [
       {
         "name": "Lisa Flasse",
@@ -131,15 +114,17 @@
     "date": "2019-11-01",
     "categories": [
       "red algae",
-      "gene transfer"
+      "gene transfer",
+      "archea",
+      "bacteria"
     ],
     "preview": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/images/Cyanidium_O5A.jpg",
-    "last_modified": "2019-11-17T21:56:03+01:00"
+    "last_modified": "2020-04-29T17:51:59+02:00"
   },
   {
     "path": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/",
     "title": "Article 1 : Brain evolution : Adaptations to extreme conditions",
-    "description": "The brain architecture of shrimp living in deep-sea vents provides clues to how these organisms have adapted to extreme living.",
+    "description": {},
     "author": [
       {
         "name": "Lisa Flasse",
@@ -153,6 +138,6 @@
       "vent shrimps"
     ],
     "preview": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/images/rimicaris-hybisae.jpg",
-    "last_modified": "2019-11-17T22:01:31+01:00"
+    "last_modified": "2020-04-29T17:52:31+02:00"
   }
 ]

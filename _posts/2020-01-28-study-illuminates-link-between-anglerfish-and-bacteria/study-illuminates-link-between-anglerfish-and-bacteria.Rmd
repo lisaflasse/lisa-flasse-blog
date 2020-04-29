@@ -1,7 +1,5 @@
 ---
 title: "Article 6 : Study illuminates link between anglerfish and bacteria"
-description: |
-  Female deep-sea anglerfish have a headlamp, at the end of a pole attached to their foreheads, that lights up thanks to bioluminescent bacteria that live in the lamp’s bulb.
 author:
   - name: Lisa Flasse
     url: {}

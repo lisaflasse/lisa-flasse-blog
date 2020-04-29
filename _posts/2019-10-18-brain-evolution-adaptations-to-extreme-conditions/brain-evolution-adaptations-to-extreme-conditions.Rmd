@@ -1,6 +1,5 @@
 ---
 title: "Article 1 : Brain evolution : Adaptations to extreme conditions"
-description: "The brain architecture of shrimp living in deep-sea vents provides clues to how these organisms have adapted to extreme living."
 author:
   - name: "Lisa Flasse"
 date: 10-18-2019

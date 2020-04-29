@@ -1,6 +1,5 @@
 ---
 title: "Article 2 : Gene Transfer : Adapting for life in the extreme"
-description: "Red algae have adapted to extreme environments by acquiring genes from bacteria and archaea."
 author:
   - name: "Lisa Flasse"
 date: 11-01-2019

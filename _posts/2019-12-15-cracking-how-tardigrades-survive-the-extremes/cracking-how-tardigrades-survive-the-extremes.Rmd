@@ -1,7 +1,5 @@
 ---
 title: "Article 5 : Cracking how tardigrades survive the extremes"
-description: |
-  Scientists have gained a new understanding of how tiny, ultra-resilient invertebrates known as tardigrades, or 'water bears,' are protected in extreme conditions.
 author:
   - name: Lisa Flasse
     url: {}
