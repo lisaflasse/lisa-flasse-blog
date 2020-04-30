@@ -32,3 +32,5 @@ knitr::opts_chunk$set(echo = FALSE)
 - 28/01 : watched three episodes of "The Witcher" (EN with EN subs)
 - 31/01 : watched last episodes of "The Witcher" (EN with EN subs)
 - 15/02 : read Lewis Carroll's "Alice's adventures in wonderland"
+- 25/04 : watched "Gone Girl"(EN with EN subs)
+- 29/04 : finished first season of "Prison Break" (EN with EN subs)

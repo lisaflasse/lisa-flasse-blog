@@ -1,5 +1,5 @@
 ---
-title: "Article 8 : Arsenic-Resistant Nematodes Found in Mono Lake"
+title: "Article 7 : Arsenic-Resistant Nematodes Found in Mono Lake"
 author:
   - name: Lisa Flasse
 date: 04-24-2020
