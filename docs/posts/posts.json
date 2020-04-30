@@ -2,7 +2,7 @@
   {
     "path": "posts/2020-04-24-arsenic-resistant-nematodes-found-in-mono-lake/",
     "title": "Article 8 : Arsenic-Resistant Nematodes Found in Mono Lake",
-    "description": "A short description of the post.",
+    "description": {},
     "author": [
       {
         "name": "Lisa Flasse",
@@ -10,9 +10,11 @@
       }
     ],
     "date": "2020-04-24",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-04-24T17:24:57+02:00"
+    "categories": [
+      "nematodes"
+    ],
+    "preview": "posts/2020-04-24-arsenic-resistant-nematodes-found-in-mono-lake/images/nematodes.jpg",
+    "last_modified": "2020-04-30T18:27:12+02:00"
   },
   {
     "path": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/",
@@ -31,7 +33,7 @@
       "deep sea"
     ],
     "preview": "posts/2020-01-28-study-illuminates-link-between-anglerfish-and-bacteria/images/29SCI-ANGLERFISH-promo-superJumbo.jpg",
-    "last_modified": "2020-04-29T17:51:15+02:00"
+    "last_modified": "2020-04-30T18:23:17+02:00"
   },
   {
     "path": "posts/2019-12-15-cracking-how-tardigrades-survive-the-extremes/",
@@ -48,7 +50,7 @@
       "tardigrades"
     ],
     "preview": "posts/2019-12-15-cracking-how-tardigrades-survive-the-extremes/images/image_5043-Tardigrade.jpg",
-    "last_modified": "2020-04-29T17:50:43+02:00"
+    "last_modified": "2020-04-30T18:23:16+02:00"
   },
   {
     "path": "posts/2019-12-01-how-tiny-crustaceans-survive-the-crushing-pressures-of-the-mariana-trench/",
@@ -66,22 +68,7 @@
       "Crustaceans"
     ],
     "preview": "posts/2019-12-01-how-tiny-crustaceans-survive-the-crushing-pressures-of-the-mariana-trench/images/hirondellea.jpg",
-    "last_modified": "2020-04-29T17:50:25+02:00"
-  },
-  {
-    "path": "posts/2019-11-12-my-english-activity-log/",
-    "title": "My English activity log",
-    "description": {},
-    "author": [
-      {
-        "name": "Lisa Flasse",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-12",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-04-15T21:34:03+02:00"
+    "last_modified": "2020-04-30T18:23:16+02:00"
   },
   {
     "path": "posts/2019-11-12-microbes-in-extreme-environments/",
@@ -99,7 +86,22 @@
       "bacteria"
     ],
     "preview": "posts/2019-11-12-microbes-in-extreme-environments/images/microbes-extremophiles.jpg",
-    "last_modified": "2020-04-29T17:51:43+02:00"
+    "last_modified": "2020-04-30T18:23:15+02:00"
+  },
+  {
+    "path": "posts/2019-11-12-my-english-activity-log/",
+    "title": "My English activity log",
+    "description": {},
+    "author": [
+      {
+        "name": "Lisa Flasse",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-04-30T18:23:16+02:00"
   },
   {
     "path": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/",
@@ -119,7 +121,7 @@
       "bacteria"
     ],
     "preview": "posts/2019-11-03-gene-transfer-adapting-for-life-in-the-extreme/images/Cyanidium_O5A.jpg",
-    "last_modified": "2020-04-29T17:51:59+02:00"
+    "last_modified": "2020-04-30T18:23:15+02:00"
   },
   {
     "path": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/",
@@ -138,6 +140,6 @@
       "vent shrimps"
     ],
     "preview": "posts/2019-10-18-brain-evolution-adaptations-to-extreme-conditions/images/rimicaris-hybisae.jpg",
-    "last_modified": "2020-04-29T17:52:31+02:00"
+    "last_modified": "2020-04-30T18:23:15+02:00"
   }
 ]

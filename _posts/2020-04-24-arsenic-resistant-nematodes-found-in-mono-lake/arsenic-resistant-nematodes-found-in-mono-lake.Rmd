@@ -1,11 +1,11 @@
 ---
 title: "Article 8 : Arsenic-Resistant Nematodes Found in Mono Lake"
-description: |
-  A short description of the post.
 author:
   - name: Lisa Flasse
-    url: {}
 date: 04-24-2020
+categories :
+  - nematodes
+preview : images/nematodes.jpg
 output:
   distill::distill_article:
     self_contained: false
@@ -27,7 +27,6 @@ Word count : 811
 
 ## Vocabulary
 
-
 | Words from the text | Synonym/Explanation                             |
 | ------------------- | ----------------------------------------------- |
 | brine               | water of the sea                                |
@@ -41,3 +40,12 @@ Word count : 811
 | broad               | wide                                            |
 
 ## Analysis table
+
+|                          |                                                                                                                                                                                                                                                  |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Author                   | Abby Olena, science journalist                                                                                                                                                                                                                   |
+| Researchers/Contributors | Pei-Yin Shih, James Siho Lee, Ryoji Shinya, Natsumi Kanzaki, Andre Pires-daSilva, Jean Marie Badroos, Elizabeth Groetz, Amir Sapir, Paul W. Stenberg (names found on **Current Biology**, where the research were published)                     |
+| Published in ? When ?    | The Scientist, 26/09/2019                                                                                                                                                                                                                        |
+| General topic            | Arsenic-resistant nematodes have been found in Mono Lake, a place where few species are able to thrive because of the high arsenic concentration and the salinity.                                                                               |
+| Procedure                | Researchers  went to a nematodes collecting trip in Mono Lake (by scooping up the lake soil), and analyzed their genomes.                                                                                                                        |
+| Conclusion               | Researchers collected 8 species of nematodes, including 5 which haven't been described yet. It has also been said that these species can thrive into such environments thanks to a mutation of a gene that is involved in amino acid metabolism. |
